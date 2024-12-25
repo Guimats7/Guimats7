@@ -8,7 +8,7 @@
 
 ###
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Guimats7/Guimats7/blob/output/github-snake-dark.svg)
 
 ###
 
