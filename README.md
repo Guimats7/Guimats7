@@ -8,7 +8,7 @@
 
 ###
 
-- 📝 I study Computer Science at [Universidade Estadual de Santa Cruz, Bahia](Universidade Estadual de Santa Cruz, Bahia)
+- 📝 I study Computer Science at **Universidade Estadual de Santa Cruz, Bahia**
 
 - 🔭 I’m currently working on **my frontend skills**
 
