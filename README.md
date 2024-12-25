@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Torres</h1>
-<h2 align="left">Welcome to my profile! 👋</h2>
+<h2 align="center">Welcome to my profile! 👋</h2>
 <h3 align="center">A passionate developer and computer scientist from Brazil. 🇧🇷</h3>
 
 ###
