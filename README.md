@@ -1,10 +1,31 @@
 <h1 align="center">Hi 👋, I'm Guilherme Torres</h1>
 <h2 align="center">Welcome to my profile! 👋</h2>
-<h3 align="center">A passionate developer and computer scientist from Brazil. 🇧🇷</h3>
+<h3 align="center">I'm a passionate developer and computer scientist from Brazil. 🇧🇷</h3>
 
 ###
 
 <img align="left" height="200" src="https://imagens.mdig.com.br/arte/GIFs_contam_historinhas_cotidiano_Guillaume_Kurkdjian_017.gif"  />
+
+###
+
+- 🔭 I’m currently working on **my frontend skills**
+
+- 🌱 I’m currently learning **Unity and Reactnative**
+
+- 🎮 I’m looking to collaborate on **game development projects**
+
+- 🤝 I’m looking for help with **graphic design**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Guiglis](https://github.com/Guiglis)
+
+- 📝 I study at [Universidade Estadual de Santa Cruz, Bahia](Universidade Estadual de Santa Cruz, Bahia)
+
+- 🌐 I speak **fluent portuguese and english, basic german (B1) and italian (A2).**
+
+- 📫 How to reach me **guylhermetorres@gmail.com**
+
+- ⚡ My hobies include **tabletop RPG, gaming, studying new languages and writing fiction.**
+
 
 ###
 
