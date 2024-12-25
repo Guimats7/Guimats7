@@ -8,24 +8,15 @@
 
 ###
 
-- 🔭 I’m currently working on **my frontend skills**
+- 📝 I study Computer Science at [Universidade Estadual de Santa Cruz, Bahia](Universidade Estadual de Santa Cruz, Bahia)
 
-- 🌱 I’m currently learning **Unity and Reactnative**
+- 🔭 I’m currently working on **my frontend skills**
 
 - 🎮 I’m looking to collaborate on **game development projects**
 
-- 🤝 I’m looking for help with **graphic design**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Guiglis](https://github.com/Guiglis)
-
-- 📝 I study at [Universidade Estadual de Santa Cruz, Bahia](Universidade Estadual de Santa Cruz, Bahia)
-
 - 🌐 I speak **fluent portuguese and english, basic german (B1) and italian (A2).**
 
-- 📫 How to reach me **guylhermetorres@gmail.com**
-
 - ⚡ My hobies include **tabletop RPG, gaming, studying new languages and writing fiction.**
-
 
 ###
 
