@@ -4,7 +4,7 @@
 
 ###
 
-<img align="left" height="200" src="https://imagens.mdig.com.br/arte/GIFs_contam_historinhas_cotidiano_Guillaume_Kurkdjian_017.gif"  />
+<img align="left" height="300" src="https://imagens.mdig.com.br/arte/GIFs_contam_historinhas_cotidiano_Guillaume_Kurkdjian_017.gif"  />
 
 ###
 
