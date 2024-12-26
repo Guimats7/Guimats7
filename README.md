@@ -21,7 +21,7 @@
 ###
 
 ![snake gif](https://github.com/Guimats7/Guimats7/blob/output/github-snake-dark.svg)
-
+ 
 ###
 
 <h3 align="left">Skills I have or that I'm currently studying</h3>
